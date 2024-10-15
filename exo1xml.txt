@@ -1,0 +1,13 @@
+<?Xml version="1.0" encoding="utf-8"?>
+ <enseignant><\enseignant>
+<nom>"M Dupont"<\nom>
+  <matiere>"francais"<\matiere>
+  <nombre d eleves>"132"<\nombre d eleves>
+  <enseignant><\enseignant>
+<nom>"Mme Martin"<\nom>
+  <matiere>"francaisà"<\matiere>
+  <nombre d eleves>"161"<\nombre d eleves>
+  <enseignant><\enseignant>
+<nom>"Mlle Durant "<\nom>
+  <matiere>"mathematique"<\matiere>
+  <nombre d eleves>"143"<\nombre d eleves>
